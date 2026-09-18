@@ -18,29 +18,29 @@ Official web presence and project credentials portfolio for **M/s Nageshwar Jais
 
 ---
 
-## 🚀 Live Deployment via GitHub Pages
+## 🚀 Deployment Options
 
-This repository is built as a lightweight, high-performance static web application requiring zero build steps or runtime dependencies.
+This site is a lightweight, zero-dependency static web application. It can be deployed on either **Vercel** or **GitHub Pages** in under 60 seconds.
 
-### Instant Setup:
+### Option A: Deploy to Vercel (Recommended)
+1. Go to [vercel.com](https://vercel.com) and sign in with your GitHub account.
+2. Click **Add New...** > **Project** and select this repository.
+3. Keep default settings:
+   - **Framework Preset**: `Other` (or auto-detected static)
+   - **Root Directory**: `./`
+   - **Build & Output Settings**: Leave empty (no build step needed)
+4. Click **Deploy**. Vercel will instantly serve your site globally on high-speed Edge CDN with free automatic HTTPS SSL!
+5. **Custom Domain**: In Project Settings > **Domains**, enter `nageshwarjaiswal.com` and set the DNS `A` record to `76.76.21.21`.
+
+---
+
+### Option B: Deploy to GitHub Pages
 1. Push this repository to GitHub.
-2. Go to **Settings** > **Pages** in your GitHub repository.
+2. Go to repository **Settings** > **Pages**.
 3. Under **Build and deployment**:
    - **Source**: `Deploy from a branch`
-   - **Branch**: `main` (or `master`)
-   - **Folder**: `/(root)`
-4. Click **Save**. Your site will be live instantly!
-
-### Custom Domain Setup:
-If you register a custom domain (e.g. `nageshwarjaiswal.com`):
-1. In **Settings** > **Pages** > **Custom domain**, enter your domain name.
-2. Configure DNS records on your domain registrar:
-   - **CNAME**: `@` or `www` pointing to `<username>.github.io`
-   - Alternatively, use GitHub Pages standard `A` records:
-     - `185.199.108.153`
-     - `185.199.109.153`
-     - `185.199.110.153`
-     - `185.199.111.153`
+   - **Branch**: `main`, **Folder**: `/(root)`
+4. Click **Save**.
 
 ---
 
@@ -50,6 +50,7 @@ If you register a custom domain (e.g. `nageshwarjaiswal.com`):
 ├── index.html         # Main standalone website application (HTML, CSS, JS)
 ├── photos/            # Optimized project and site photography (19 assets)
 ├── site_photos/       # Proprietor executive portrait
+├── vercel.json        # Security headers & global edge caching config for Vercel
 ├── .gitignore         # Ignores archive folder and temporary files
 └── README.md          # Project documentation & deployment guide
 ```
