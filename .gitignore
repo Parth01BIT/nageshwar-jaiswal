@@ -1,0 +1,13 @@
+# Archive & Unused Source Files (move or keep local)
+_unused_source_files/
+*.bak
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Temporary files
+.vscode/
+.idea/
+*.tmp
