@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://nageshwarjaiswal.co.in/</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://nageshwarjaiswal.co.in/site_photos/nageshwar_jaiswal_proprietor.jpg</image:loc>
+      <image:title>Shri Nageshwar Budhi Jaiswal – Founder &amp; Proprietor, M/s Nageshwar Jaiswal</image:title>
+      <image:caption>Shri Nageshwar Budhi Jaiswal, leading Railway &amp; Civil EPC Contractor, Nagpur</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://nageshwarjaiswal.co.in/photos/bridge_girder_1.jpg</image:loc>
+      <image:title>61m Open Web Girder Aerial View – Amlohri NCL Singrauli</image:title>
+      <image:caption>61m Open Web Girder fabricated and erected by M/s Nageshwar Jaiswal for RITES</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://nageshwarjaiswal.co.in/photos/rub_completed_1.jpg</image:loc>
+      <image:title>Completed RCC Road Under Bridge with PQC Concrete Approach Road</image:title>
+      <image:caption>RCC Road Under Bridge (RUB) executed using hydraulic box pushing method</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://nageshwarjaiswal.co.in/photos/pqc_road_1.jpg</image:loc>
+      <image:title>PQC Rigid Concrete Road with Rapid Loading Silo – WCL Umred</image:title>
+      <image:caption>Heavy-duty PQC rigid concrete road and rail infrastructure at WCL Umred</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://nageshwarjaiswal.co.in/photos/rcc_wall_concrete.jpg</image:loc>
+      <image:title>RCC Retaining Wall Concreting with Ready Mix Concrete</image:title>
+      <image:caption>Heavy industrial RCC retaining wall and drainage structure execution</image:caption>
+    </image:image>
+  </url>
+</urlset>

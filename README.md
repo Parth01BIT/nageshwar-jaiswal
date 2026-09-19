@@ -7,7 +7,7 @@ Official web presence and project credentials portfolio for **M/s Nageshwar Jais
 ## 🏗️ Overview
 
 - **Proprietor**: Shri Nageshwar Budhi Jaiswal
-- **Headquarters**: Sector D, Plot No. 38, CIDCO Colony, Butibori, Nagpur, Maharashtra — 441122
+- **Headquarters**: Plot No. 40, Sector-B, CIDCO Colony, MIDC Area, Butibori, Nagpur, Maharashtra — 441122
 - **Specializations**:
   - Railway P-Way track linking & sidings
   - 61.0m Open Web Girder fabrication & erection (ROR)
@@ -30,7 +30,7 @@ This site is a lightweight, zero-dependency static web application. It can be de
    - **Root Directory**: `./`
    - **Build & Output Settings**: Leave empty (no build step needed)
 4. Click **Deploy**. Vercel will instantly serve your site globally on high-speed Edge CDN with free automatic HTTPS SSL!
-5. **Custom Domain**: In Project Settings > **Domains**, enter `nageshwarjaiswal.com` and set the DNS `A` record to `76.76.21.21`.
+5. **Custom Domain**: In Project Settings > **Domains**, add `nageshwarjaiswal.co.in` (set as Primary) and `www.nageshwarjaiswal.co.in`, and configure your DNS `A` / `CNAME` records per Vercel's instructions.
 
 ---
 

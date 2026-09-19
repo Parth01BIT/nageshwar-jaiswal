@@ -1,0 +1,8 @@
+# robots.txt for M/s Nageshwar Jaiswal
+# https://nageshwarjaiswal.co.in/
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://nageshwarjaiswal.co.in/sitemap.xml
